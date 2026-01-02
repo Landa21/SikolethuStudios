@@ -51,7 +51,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/Landa21/SikolethuStudios.git
 
 
 Navigate into the project directory:
